@@ -1,16 +1,45 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<div align="center">
+<br>
+    <samp> <i> I'm Mustafa from Turkey </i> </samp> <br />
+    <samp> <i> I'm a computer engineering student who is passionate about making new projects. Some technologies I enjoy working with Html , Css , Javascript , ReactJS and Java.   </i> </samp>
+    <br />
+    <br />
 
-<!--
-**mustafahincal/mustafahincal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <h2><b>Languages and Tools</b></h2>
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+        <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+        <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+    <img height="32"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+</div>
+
+<br>
+<br>
+
+<div align="center">
+
+
+![](https://github-readme-stats.vercel.app/api?username=mustafahincal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&bg_color=151515&text_color=fff&title_color=ffffff)
+
+</div>
