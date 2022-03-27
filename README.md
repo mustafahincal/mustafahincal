@@ -44,8 +44,8 @@
 <div align="center">
 
 
-![](https://github-readme-stats.vercel.app/api?username=mustafahincal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=111&bg_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=mustafahincal&&show_icons=true&title_color=111&icon_color=111&text_color=111&bg_color=fff)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&bg_color=151515&text_color=111&title_color=fff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&bg_color=fff&text_color=111&title_color=111)
 
 </div>
