@@ -48,6 +48,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&bg_color=111&text_color=fff&title_color=fff)
     
-// ![](https://komarev.com/ghpvc/?username=mustafahincal&color=green)
+<br>
+<br>
+    
+![](https://komarev.com/ghpvc/?username=mustafahincal&color=green)
 
 </div>
