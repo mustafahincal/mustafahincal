@@ -44,7 +44,7 @@
 <div align="center">
 
 
-![](https://github-readme-stats.vercel.app/api?username=mustafahincal&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=mustafahincal&show_icons=true&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&bg_color=111&text_color=fff&title_color=fff&theme=dark)
     
