@@ -51,6 +51,6 @@
 <br>
 <br>
     
-![](https://komarev.com/ghpvc/?username=mustafahincal&color=green)
+![](https://komarev.com/ghpvc/?username=mustafahincal&color=blue&style=for-the-badge)
 
 </div>
