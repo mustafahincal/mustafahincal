@@ -46,7 +46,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mustafahincal&show_icons=true&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&bg_color=111&text_color=fff&title_color=fff&theme=dark)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&hide=c++)](https://github.com/mustafahincal/github-readme-stats)
     
  
     
