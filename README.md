@@ -48,11 +48,5 @@
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&hide=C++&layout=compact&theme=dracula)](https://github.com/mustafahincal/github-readme-stats)
     
- 
-    
-<br>
-<br>
-    
-![](https://komarev.com/ghpvc/?username=mustafahincal&color=yellow&style=for-the-badge)
 
 </div>
