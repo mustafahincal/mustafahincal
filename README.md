@@ -5,6 +5,10 @@
     <samp> <i> I'm a computer engineering student who is passionate about making new projects. Some technologies I enjoy working with Html , Css , Javascript , ReactJS, Java and C#.   </i> </samp>
     <br />
     <br />
+    
+    ## Contact me 👇
+    LinkedIn: <a href="https://linkedin.com/in/mustafahincal" target="blank">https://linkedin.com/in/mustafahincal</a><br>
+    E-Mail:  <a href = "mailto:mustafahncal@gmail.com">mustafahncal@gmail.com</a><br><br>
 
 </div>
 <div>
