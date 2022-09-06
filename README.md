@@ -38,9 +38,9 @@
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </div>
     
- ## Contact me
- #### LinkedIn: <a href="https://linkedin.com/in/mustafahincal" target="blank">https://linkedin.com/in/mustafahincal</a><br>
- #### E-Mail:  <a href = "mailto:mustafahncal@gmail.com">mustafahncal@gmail.com</a><br><br>   
+ ## Contact me 👋
+ LinkedIn: <a href="https://linkedin.com/in/mustafahincal" target="blank">https://linkedin.com/in/mustafahincal</a><br>
+ E-Mail:  <a href = "mailto:mustafahncal@gmail.com">mustafahncal@gmail.com</a><br><br>   
 
 <br>
 <br>
