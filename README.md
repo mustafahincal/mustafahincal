@@ -52,10 +52,6 @@
 
 <div align="center">
 
-
-![](https://github-readme-stats.vercel.app/api?username=mustafahincal&show_icons=true&theme=dracula)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&hide=C++&layout=compact&theme=dracula)](https://github.com/mustafahincal/github-readme-stats)
     
 
 </div>
