@@ -2,7 +2,7 @@
  
 <div align="center">
 <br>
-    <samp> <i> I'm Mustafa from Turkey </i> </samp><br />
+    <samp> <i> I'm Mustafa from Turkey</i> </samp><br />
     <samp> <i> I'm a computer engineering student who is passionate about learning new technologies. Some technologies I enjoy working with Html, Css, Javascript, ReactJS, NodeJS, Java and C#. </i></samp>
     <br />
     <br />
