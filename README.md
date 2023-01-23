@@ -52,4 +52,5 @@
 <br>
 
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafahincal&theme=github_dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact)](https://github.com/mustafahincal/github-readme-stats)
 
