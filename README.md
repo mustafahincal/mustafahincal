@@ -51,3 +51,5 @@
 <br>
 <br>
 
+![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafahincal&theme=github_dark&show_icons=true)
+
