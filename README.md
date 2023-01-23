@@ -51,15 +51,17 @@
 <br>
 <br>
 
-
-<a href="https://github.com/mustafahincal/github-readme-stats">
+<div align = "center">
+ <a href="https://github-readme-stats.vercel.app/api?username=mustafahincal&theme=github_dark&show_icons=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafahincal&theme=github_dark&show_icons=true" />
 </a>
  
  <br>
  
-<a href="https://github.com/mustafahincal/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&theme=github_dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&theme=github_dark" />
 </a>
+ </div>
+
 
 
