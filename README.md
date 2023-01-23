@@ -66,5 +66,5 @@
 </a>
  </div>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&hide=jupyter%20notebook)
 
