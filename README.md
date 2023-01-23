@@ -51,15 +51,15 @@
 <br>
 <br>
  
- <div align="center">
+
   ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafahincal&theme=github_dark&show_icons=true)
- </div>
+
  
  <br>
  
- <div align="center">
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&theme=github_dark)](https://github.com/mustafahincal/github-readme-stats)
- </div>
+
 
 
 
