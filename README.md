@@ -50,17 +50,16 @@
 
 <br>
 <br>
- 
 
-  ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafahincal&theme=github_dark&show_icons=true)
 
+<a href="https://github.com/mustafahincal/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafahincal&theme=github_dark&show_icons=true" />
+</a>
  
  <br>
  
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&theme=github_dark)](https://github.com/mustafahincal/github-readme-stats)
-
-
-
+<a href="https://github.com/mustafahincal/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&theme=github_dark" />
+</a>
 
 
