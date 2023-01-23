@@ -62,9 +62,8 @@
   <br>
  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&theme=github_dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&hide=jupyter%20notebook&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&theme=github_dark" />
 </a>
  </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&hide=jupyter%20notebook)
 
