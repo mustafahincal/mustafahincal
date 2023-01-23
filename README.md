@@ -62,7 +62,7 @@
   <br>
  
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&theme=github_dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&theme=github_dark&hide=css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&hide=css&theme=github_dark" />
 </a>
  </div>
 
