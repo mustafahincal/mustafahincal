@@ -3,8 +3,6 @@
 <div align="center">
 <br>
     <samp> <i> I'm Mustafa from Turkey</i> </samp><br />
-    <samp> <i> I'm a computer engineering student who is passionate about learning new technologies. I'm interested in web programming and data science. Some technologies I enjoy working with Html, Css, Javascript, ReactJS, NodeJS, Java, Python and C#. </i></samp>
-    <br />
     <br />
  
  <h1 align="center">Contact me 👋</h1>
