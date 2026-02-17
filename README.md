@@ -1,9 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋, I am Mustafa</h1>
  
 <div align="center">
-<br>
-    <samp> <i> I'm Mustafa from Turkey</i> </samp><br />
-    <br />
  
  <h1 align="center">Contact me 👋</h1>
  LinkedIn: <a href="https://linkedin.com/in/mustafahincal" target="blank">https://linkedin.com/in/mustafahincal</a><br>
@@ -55,23 +52,6 @@
 
     
    
-
-<br>
-<br>
-
-<div align = "center">
- <a href="https://github-readme-stats.vercel.app/api?username=mustafahincal&theme=github_dark&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafahincal&theme=github_dark&show_icons=true" />
-</a>
- 
- <br>
-  <br>
- 
-  <br>
- 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&theme=github_dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafahincal&layout=compact&theme=github_dark&hide=jupyter%20notebook,css,html,ejs,scss" />
-</a>
  </div>
 
 
